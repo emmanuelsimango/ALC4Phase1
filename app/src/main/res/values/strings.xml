@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_profile">My Profile</string>
+    <string name="button_about">About ALC</string>
+    <string name="welcome_message">Welcome to ALC 4.0</string>
+    <string name="image_description">My profile pic</string>
+    <string name="profile_name">Lloyd Emmanuel Simango</string>
+    <string name="profile_activity">My Profile</string>
+    <string name="track">Track: Android</string>
+    <string name="country">Country: Zimbabwe</string>
+    <string name="email">Email: emmanuelsimango@gmail.com</string>
+    <string name="phone">Phone Number: 0779389638</string>
+    <string name="slack">Slack: @emmanuelsimango</string>
+    <string name="about_alc">About ALC</string>
+</resources>
